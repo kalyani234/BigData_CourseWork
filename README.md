@@ -1,7 +1,7 @@
 # Online Shoppers Purchasing Intention Analysis
 
 ## Overview
-This project aims to analyze the Online Shoppers Purchasing Intention Dataset from the UCI Machine Learning Repository. The analysis involves data preprocessing, feature engineering, model selection, evaluation, and visualization to predict online shopper purchasing intentions.
+This project analyzes the Online Shoppers Purchasing Intention Dataset from the UCI Machine Learning Repository. The analysis involves data preprocessing, feature engineering, model selection, evaluation, and visualization to predict online shoppers purchasing intentions.
 
 ## Methodology
 
@@ -14,7 +14,7 @@ This project aims to analyze the Online Shoppers Purchasing Intention Dataset fr
 
 ### Feature Engineering
 - Selected features: `Administrative`, `BounceRates`, `Weekend`, etc.
-- Used `VectorAssembler` to assemble features into a single vector for input into the models.
+- Used `VectorAssembler` to assemble features into a single vector for model input.
 
 ### Model Selection
 - Four classification algorithms were chosen:
